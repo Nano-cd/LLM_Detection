@@ -54,3 +54,5 @@ BATCH_SIZE=32
 LEARNING_RATE=0.001
 MAX_SEQ_LENGTH=512
 ```
+
+![20250314134415](https://github.com/user-attachments/assets/f2b9c5bd-5a51-4bda-b975-12236ec27685)
